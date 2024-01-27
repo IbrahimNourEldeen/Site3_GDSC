@@ -30,7 +30,6 @@
     justify-content: space-around;
 }
 .sheet nav span{
-    /* font-weight: bolder; */
     font-size: 35px;
     margin: 10px;
     font-family: 'Yellowtail', cursive;
@@ -76,7 +75,6 @@
 }
 .container{
     width: 100%;
-    height: 295vh;
     background-color: black;
     color: white;
 }
@@ -247,4 +245,5 @@ img{
 .footer p:hover,
 .footer a:hover{
     color: #e2267c;
+    padding-left: 5px;
 }
