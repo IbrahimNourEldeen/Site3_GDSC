@@ -80,7 +80,6 @@
 }
 .services .collection {
     display: flex;
-    height: 41vh;
     overflow: hidden;
     padding-top: 10px;
 }
